@@ -49,9 +49,3 @@ This project analyzes the relationship between **Bitcoin market sentiment** (Fea
 2. Install dependencies (`pip install -r requirements.txt`)
 3. Run `trader_sentiment_analysis.ipynb` in Jupyter Notebook
 
----
-
-## 📬 Contact
-
-For queries: sunayanawork6@gmail.com  
-Let's build smarter trading strategies together!
